@@ -11,6 +11,14 @@
 
 ---
 
+## ?? Application Screenshot & Interface Preview
+
+<div align="center">
+  <img src="./assets/screenshot.png" alt="Application Interface Preview" width="850" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
+</div>
+
+---
+
 ## 📋 Executive Summary & Problem Solved
 
 Modern retail operations struggle with fragmented, laggy communication between store clerks on the shop floor, procurement leads managing replenishment, warehouse associates picking orders, and store managers analyzing sales metrics. Traditional retail ERP systems are monolithic, expensive, and lack real-time reactivity:
